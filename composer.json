@@ -1,0 +1,24 @@
+{
+    "name": "laurynas/arranger-php-refactor",
+    "type": "project",
+    "require": {
+        "php" : "^7.0",
+        "ext-json": "*",
+        "ext-simplexml": "*",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "Laurynas Gerbutavičius",
+            "email": "gerb.laurynas@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "": "src/"
+      }
+    }
+}
