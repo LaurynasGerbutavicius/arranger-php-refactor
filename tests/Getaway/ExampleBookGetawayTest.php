@@ -14,11 +14,11 @@ use Book\Parser\JsonBookParser;
 
 class ExampleBookGetawayTest extends \PHPUnit\Framework\TestCase
 {
-    public function testGetBooksByAuthor()
-    {
+//    public function testGetListOfAuthors()
+//    {
         //$exampleBookGetaway = new ExampleBookGetaway(new JsonBookParser());
         //$data = $exampleBookGetaway->getListOfAuthors("name");
-    }
+//    }
 
 
 }
