@@ -2,8 +2,6 @@
 
 namespace Book\Parser;
 
-require_once 'BookParserInterface.php';
-
 /**
  * Created by PhpStorm.
  * User: laurynas
